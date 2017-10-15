@@ -1,3 +1,4 @@
+//regresion lineal version 1.0
 #include "rlineal.h"
 #include "ui_rlineal.h"
 #include "math.h"
